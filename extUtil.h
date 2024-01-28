@@ -44,7 +44,7 @@ void printf_fflush(const char *fmt,...);
 /*  original 
 #include <GL/glut_cgx.h>
 */
-  #include <GLUT/glut.h>
+#include <GLUT/glut.h>
 #endif
 
 #define     PI          3.14159265358979323846264338327950288
